@@ -11,7 +11,7 @@ Examining Ethnic Disparities in Policing Practices in the United Kingdom explore
 | Data Visualization      | GGPLOT (Maps, Bar Graphs, Pie Charts, Line Graphs)|
 | Database Management     | SQL Queries in R                                 |
 
-## Datasets
+## Data Sources
 1. Stop and Search Data collection(2021), Home Office UK
 2. Census(2021), Office for National Statistics UK
 3. Police Workforce, England and Wales (2021) - Home Office UK and Office for National Statistics UK

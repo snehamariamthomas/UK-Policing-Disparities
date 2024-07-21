@@ -15,7 +15,7 @@ Recommendations emphasize the urgent need for reforms to enhance transparency, a
 |-------------------------|--------------------------------------------------|
 | Geospatial Mapping      | Static and Interactive Mapping                   |
 | Data Visualization      | GGPLOT (Maps, Bar Graphs, Pie Charts, Line Graphs)|
-| Database Management     | SQL Queries in R                                 |
+| Database Management     | RSQLite(SQL Queries in R)                                |
 
 ## Data Sources
 1. Stop and Search Data collection(2021), Home Office UK
